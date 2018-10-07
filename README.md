@@ -1,2 +1,2 @@
 # bar-time
-Pebble watchface config
+Pebble Bar Time watchface config
